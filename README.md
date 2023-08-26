@@ -7,6 +7,5 @@
 
 - 📫 Email: **noorulainmlaik980@gmail.com**
 
-
 <p align="left">
 </p>
