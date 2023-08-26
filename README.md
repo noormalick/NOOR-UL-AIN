@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NOOR UL AIN</h1>
-- 🔭 I’m currently **studying Software Engineering**
+- 🔭 I’m currently studying Software Engineering
 
 - 🤝 I’m interested in **Web Development**
 
